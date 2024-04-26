@@ -5,7 +5,7 @@ This project focuses on analyzing the impact of forest fires on atmospheric para
 
 ## Features
 - **Data Collection**: Utilizes netCDF files containing atmospheric data from various locations and time periods.
-- **Parameter Analysis**: Extracts ozone concentration, edge height (H), and vertical pressure velocity (OMEGA) from the netCDF files.
+- **Parameter Analysis**: Extracts ozone concentration, edge height (H), vertical pressure velocity (OMEGA) and other parameters from the netCDF files.
 - **Visualization**: Generates visualizations, such as time series plots and correlation matrices, to analyze the relationship between forest fires and atmospheric parameters.
 - **Regression Analysis**: Performs regression analysis to quantify the impact of forest fires on ozone concentration and other meteorological variables.
 
